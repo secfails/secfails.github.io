@@ -1,0 +1,75 @@
+body {
+	background-image: url(images/simple.png);
+	background-size: cover;
+	background-repeat: 
+}
+p {
+    font-family: 'Josefin Sans', sans-serif;
+	font-style: italic;
+	border: 5px solid gray;
+	cursor: pointer;
+	font-size: 130%;
+	color: white;
+	background-color: rgba(0, 0 ,0 , 0.7)
+}
+span {
+	font-size: 2em;
+}
+h1 {
+	color: white;
+	border: 5px dashed blue;
+	background-color: rgba(255, 0, 0, 0.3);
+}
+h2 {
+	display: inline-block;
+
+ul {
+	color: white;
+	list-style: none;
+}
+#div1 {
+	text-align: right;
+	border: 5px solid #FFE109;
+	color: #A70703; 
+	background-color: white;
+}
+#div2 {
+	
+	border: 5px solid #FFE109;
+	color: #A70703; 
+	background-color: white;
+}
+#div3 {
+	border: 5px solid #FFE109;
+	color: #A70703; 
+	background-color: white;
+}
+.pictures {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+a {
+	color: #00F700;
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 10px 5px 10px;
+	border-radius: 15px 15px 15px 15px;
+	margin: 0px 5px;
+
+}
+}
+footer {
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
